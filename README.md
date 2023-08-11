@@ -37,6 +37,10 @@ NextJs Typescript Boilerplate With SSR Eslint Prettier EditorConfig Configured J
 
 `npm run build`
 
+**To Run The Tests:**
+
+`npm run test`
+
 <br />
 
 <h3 id="technologies">🚀  Technologies:</h3>
